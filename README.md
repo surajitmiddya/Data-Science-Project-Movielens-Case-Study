@@ -1,4 +1,4 @@
-# Movielens Case Study-Data Science Project
+# Data Science Project (Movielens Case Study)
 Course-end Project 3
 
 DESCRIPTION
